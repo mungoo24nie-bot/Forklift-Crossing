@@ -1,0 +1,8 @@
+{
+  "appId": "com.forkliftcrossing.game",
+  "appName": "Forklift Crossing",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
